@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * This is a better apporach to solve this problem.
+ * This is a better apporach to solve the same problem.
  * By applying inclusion-exclusion principle the running time
  * can be reduced to O(1).
  */
