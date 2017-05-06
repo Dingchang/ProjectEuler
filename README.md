@@ -14,3 +14,8 @@
 | 003 | [Largest prime factor](https://projecteuler.net/problem=3) |[Solution.java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem03/Solution.java)|
 | 004 | [Largest palindrome product](https://projecteuler.net/problem=4) |[Solution.java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem04/Solution.java)|
 | 005 | [Smallest multiple](https://projecteuler.net/problem=5) |[Solution.java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem05/Solution.java)|
+| 006 | [Multiples of 3 and 5](https://projecteuler.net/problem=6) |[Solution.java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem06/Solution.java)|
+| 007 | [Even Fibonacci numbers](https://projecteuler.net/problem=7) ||
+| 008 | [Largest prime factor](https://projecteuler.net/problem=8) ||
+| 009 | [Largest palindrome product](https://projecteuler.net/problem=9) ||
+| 010 | [Smallest multiple](https://projecteuler.net/problem=10) ||
