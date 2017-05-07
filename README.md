@@ -15,7 +15,7 @@
 | 004 | [Largest palindrome product](https://projecteuler.net/problem=4) |[Solution.java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem004/Solution.java)|
 | 005 | [Smallest multiple](https://projecteuler.net/problem=5) |[Solution.java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem005/Solution.java)|
 | 006 | [Sum square difference](https://projecteuler.net/problem=6) |[Solution.java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem006/Solution.java)|
-| 007 | [10001st prime](https://projecteuler.net/problem=7) ||
-| 008 | [Largest product in a series](https://projecteuler.net/problem=8) |[Solution.java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem007/Solution.java)|
+| 007 | [10001st prime](https://projecteuler.net/problem=7) |[Solution.java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem007/Solution.java)|
+| 008 | [Largest product in a series](https://projecteuler.net/problem=8) ||
 | 009 | [Special Pythagorean triplet](https://projecteuler.net/problem=9) ||
 | 010 | [Summation of primes](https://projecteuler.net/problem=10) ||
