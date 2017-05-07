@@ -1,7 +1,7 @@
 public class Solution {
   public static void main(String[] args) {
-    
     int i = 3;
+    
     for (int counter = 1; counter < 10001; i += 2) {
       if (isPrime(i)) {
         counter += 1;
