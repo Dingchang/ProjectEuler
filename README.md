@@ -17,5 +17,5 @@
 | 006 | [Sum square difference](https://projecteuler.net/problem=6) |[Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem006/Solution.java)|
 | 007 | [10001st prime](https://projecteuler.net/problem=7) |[Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem007/Solution.java)|
 | 008 | [Largest product in a series](https://projecteuler.net/problem=8) |[Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem008/Solution.java)|
-| 009 | [Special Pythagorean triplet](https://projecteuler.net/problem=9) ||
+| 009 | [Special Pythagorean triplet](https://projecteuler.net/problem=9) |[Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem009/Solution.java)|
 | 010 | [Summation of primes](https://projecteuler.net/problem=10) ||
