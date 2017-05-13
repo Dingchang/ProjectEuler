@@ -19,3 +19,8 @@
 | 008 | [Largest product in a series](https://projecteuler.net/problem=8) |[Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem008/Solution.java)|
 | 009 | [Special Pythagorean triplet](https://projecteuler.net/problem=9) |[Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem009/Solution.java)|
 | 010 | [Summation of primes](https://projecteuler.net/problem=10) |[Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem010/Solution.java)|
+| 011 | [Largest product in a grid](https://projecteuler.net/problem=11) |[Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem006/Solution.java)|
+| 012 | [Highly divisible triangular number](https://projecteuler.net/problem=12) ||
+| 013 | [Large sum](https://projecteuler.net/problem=13) ||
+| 014 | [Longest Collatz sequence](https://projecteuler.net/problem=14) ||
+| 015 | [Lattice paths](https://projecteuler.net/problem=15) ||
