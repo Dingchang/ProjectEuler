@@ -22,5 +22,5 @@
 | 011 | [Largest product in a grid](https://projecteuler.net/problem=11) |[Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem011/Solution.java)|
 | 012 | [Highly divisible triangular number](https://projecteuler.net/problem=12) |[Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem012/Solution.java)|
 | 013 | [Large sum](https://projecteuler.net/problem=13) |[Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem013/Solution.java)|
-| 014 | [Longest Collatz sequence](https://projecteuler.net/problem=14) ||
-| 015 | [Lattice paths](https://projecteuler.net/problem=15) ||
+| 014 | [Longest Collatz sequence](https://projecteuler.net/problem=14) |[Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem014/Solution.java)|
+| 015 | [Lattice paths](https://projecteuler.net/problem=15) |[Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem015/Solution.java)|
