@@ -25,7 +25,7 @@
 | 014 | [Longest Collatz sequence](https://projecteuler.net/problem=14) |[Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem014/Solution.java)|
 | 015 | [Lattice paths](https://projecteuler.net/problem=15) |[Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem015/Solution.java) <br> [Alternative Solution](https://github.com/Kujyo/ProjectEuler/blob/master/Problem015/SolutionAlternative.java)|
 | 016 | [Power digit sum](https://projecteuler.net/problem=16) | [Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem016/Solution.java)|
-| 017 | [Maximum path sum I](https://projecteuler.net/problem=17) | [Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem018/Solution.java)|
+| 017 | [Maximum path sum I](https://projecteuler.net/problem=17) | [Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem017/Solution.java)|
 | 018 | [Power digit sum](https://projecteuler.net/problem=18) | |
 | 019 | [Counting Sundays](https://projecteuler.net/problem=19) | |
 | 020 | [Factorial digit sum](https://projecteuler.net/problem=20) | |
