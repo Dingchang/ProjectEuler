@@ -28,5 +28,5 @@
 | 017 | [Number letter counts](https://projecteuler.net/problem=17) | [Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem017/Solution.java)|
 | 018 | [Maximum path sum I](https://projecteuler.net/problem=18) | [Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem018/Solution.java)|
 | 019 | [Counting Sundays](https://projecteuler.net/problem=19) | [Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem019/Solution.java)|
-| 020 | [Factorial digit sum](https://projecteuler.net/problem=20) | |
+| 020 | [Factorial digit sum](https://projecteuler.net/problem=20) | [Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem020/Solution.java)|
 | 067 | [Maximum path sum II](https://projecteuler.net/problem=67) | [Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem067/Solution.java)|
