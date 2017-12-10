@@ -29,7 +29,7 @@
 | 018 | [Maximum path sum I](https://projecteuler.net/problem=18) | [Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem018/Solution.java)|
 | 019 | [Counting Sundays](https://projecteuler.net/problem=19) | [Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem019/Solution.java)|
 | 020 | [Factorial digit sum](https://projecteuler.net/problem=20) | [Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem020/Solution.java)|
-| 021 | [Amicable numbers](https://projecteuler.net/problem=21) | |
+| 021 | [Amicable numbers](https://projecteuler.net/problem=21) | [Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem021/Solution.java)|
 | 022 | [Names scores](https://projecteuler.net/problem=22) | |
 | 023 | [Non-abundant sums](https://projecteuler.net/problem=23) | |
 | 024 | [Lexicographic permutations](https://projecteuler.net/problem=24) | |
