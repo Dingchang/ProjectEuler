@@ -33,5 +33,5 @@
 | 022 | [Names scores](https://projecteuler.net/problem=22) | [Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem022/Solution.java)|
 | 023 | [Non-abundant sums](https://projecteuler.net/problem=23) | [Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem023/Solution.java)|
 | 024 | [Lexicographic permutations](https://projecteuler.net/problem=24) | [Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem024/Solution.java)|
-| 025 | [1000-digit Fibonacci number](https://projecteuler.net/problem=25) | |
+| 025 | [1000-digit Fibonacci number](https://projecteuler.net/problem=25) | [Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem025/Solution.java)|
 | 067 | [Maximum path sum II](https://projecteuler.net/problem=67) | [Java](https://github.com/Kujyo/ProjectEuler/blob/master/Problem067/Solution.java)|
